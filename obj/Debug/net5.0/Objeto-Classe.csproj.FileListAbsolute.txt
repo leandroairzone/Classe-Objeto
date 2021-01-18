@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Objeto-Classe\bin\Debug\net5.0\Objeto-Classe.exe
+C:\Users\Leandro\Desktop\Objeto-Classe\bin\Debug\net5.0\Objeto-Classe.deps.json
+C:\Users\Leandro\Desktop\Objeto-Classe\bin\Debug\net5.0\Objeto-Classe.runtimeconfig.json
+C:\Users\Leandro\Desktop\Objeto-Classe\bin\Debug\net5.0\Objeto-Classe.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Objeto-Classe\bin\Debug\net5.0\Objeto-Classe.dll
+C:\Users\Leandro\Desktop\Objeto-Classe\bin\Debug\net5.0\ref\Objeto-Classe.dll
+C:\Users\Leandro\Desktop\Objeto-Classe\bin\Debug\net5.0\Objeto-Classe.pdb
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.dll
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\ref\Objeto-Classe.dll
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.pdb
+C:\Users\Leandro\Desktop\Objeto-Classe\obj\Debug\net5.0\Objeto-Classe.genruntimeconfig.cache
